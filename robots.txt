@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rmanorini.github.io/sitemap.html.gz
+Sitemap: https://rmanorini.github.io/app/sitemap.html.gz
+Sitemap: https://rmanorini.github.io/assets/sitemap.html.gz
+Sitemap: https://rmanorini.github.io/css/sitemap.html.gz
+Sitemap: https://rmanorini.github.io/includes/sitemap.html.gz
+Sitemap: https://rmanorini.github.io/item/sitemap.html.gz
+Sitemap: https://rmanorini.github.io/src/sitemap.html.gz
